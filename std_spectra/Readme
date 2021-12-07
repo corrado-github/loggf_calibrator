@@ -1,0 +1,15 @@
+This is the directory where the stellar spectra of the standard stars used are located.
+The 5 spectra have been taken from:
+
+Sun, Arcturus: Hinkle, K., Wallace, L., Harmer, D., Ayres, T., & Valenti, J. 2000, IAU Joint
+Discussion, 1 Visible and Near Infrared Atlas of the Arcturus Spectrum
+3727
+
+Procyon,  epsilon Eri, and  epsilon Vir: Blanco-Cuaresma, S., Soubiran, C.,
+Jofré, P., & Heiter, U.  2014, A&A, 566, A98
+
+
+
+These data are publicly available. However this is not my work,
+therefore I do not publish them in Github. If interested, please contact me
+privatly.

@@ -1,0 +1,9 @@
+This is the directory where the atomic parameters line lists and hyperfine
+splitting lines are found.  It contains the line list retrieved from VALD
+atomic database (http://vald.astro.uu.se/) and from Kurucz work (Kurucz, R. 
+L.  1995, in ASP Conf.Ser 78, Astrophysical Application of Powerful New
+Database, ed.  S.J.  Adelman, W.L.  Wiese, (San Francisco, CA), 205).
+
+These data are publicly available. However this is not my work,
+therefore I do not publish them in Github. If interested, please contact me
+privatly.

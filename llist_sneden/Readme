@@ -1,0 +1,18 @@
+This is the directory where the atomic parameters line lists and hyperfine
+splitting lines are found.  It contains the line list created by Cris Sneden
+and his collaborators (that's where the directory's name come from).  It
+contains the transition probabilities for hyperfine splitting lines of
+Vanadium, Manganese, and Cobalt.  Credits:
+
+Lawler J.E., Wood M.P., Den Hartog E.A., Feigenson T., Sneden C., Cowan
+J.J., Astrophys. J. Suppl. Ser., 215, 20 (2014)
+
+Den Hartog E.A., Lawler J.E., Sobeck J.S., Sneden C., Cowan J.J.,
+Astrophys. J. Suppl. Ser., 194, 35 (2011)
+
+Lawler J.E., Sneden C., Cowan J.J.,
+Astrophys. J. Suppl. Ser., 220, 13 (2015)
+
+These data are publicly available. However this is not my work,
+therefore I do not publish them in Github. If interested, please contact me
+privatly.

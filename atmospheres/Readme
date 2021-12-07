@@ -1,0 +1,13 @@
+This is the directory where the Kurucz atmosphere models are found. 
+Besides, here are allocated data files containig information about the
+chemical abundances of the standard stars (abd_star*.dat used by SPECTRUM)
+to synhesize the spectra as well as the files used by the calibrator
+software (star*.abd).
+
+The atmosphere models are derived from the ATLAS9 grid by Castelli and Kurucz
+(2003, in IAUS symp.  210, Modelling of Stellar Atmospheres, ed.  N. 
+Piskunov, W.W.  Wiess and D.F.  Gray , Published on behalf of the IAU by the
+ASP, 20). 
+These are publicly available. However this is not my work,
+therefore I do not publish them in Github. If interested, please contact me
+privatly.
