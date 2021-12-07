@@ -1,6 +1,6 @@
 # Transition probability calibrator
 
-![Screenshot](https://github.com/corrado-github/loggf_calibrator/tree/main/pics/calibrator_screenshot.png)
+![Screenshot](pics/calibrator_screenshot.png)
 
 This software is a semi-automatic tool to perform astrophysical calibration
 of atomic transition probabilities to be used in stellar spectra synthesis.
@@ -17,15 +17,16 @@ visualized and the lines can be added, removed, or modified by the user.
 
 Although the software is released under GLP licence, the version here
 presented miss of some fundamental data necessary to make it run. I decided
-to not put here the data because, although these are public data, they are
-not my work. Therefore, if anybody download this software and run it, it
-will not work. If anybody is actually interested to run it, please contact
+to not put here the data because, although these are public data, they do
+not come from my work. Therefore, if anybody download this software and run it, it
+will not work. If you are interested to run it, please contact
 me privately.
 
 ## Use
 The code has been designed to standardize and make user friendly the
 calibration process. I build a graphic user interface (GUI) from where the
 user can check and control the whole process.
+
 
 
 
