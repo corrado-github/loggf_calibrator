@@ -1,6 +1,6 @@
 # Transition probability calibrator
 
-![Screenshot](https://github.com/liveb/welcome.png)
+![Screenshot](https://github.com/corrado-github/loggf_calibrator/pics/calibrator_screenshot.png)
 
 This software is a semi-automatic tool to perform astrophysical calibration
 of atomic transition probabilities to be used in stellar spectra synthesis.
