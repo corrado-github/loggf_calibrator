@@ -1,6 +1,5 @@
 # Transition probability calibrator
 
-
 ![Screenshot](https://github.com/liveb/welcome.png)
 
 This software is a semi-automatic tool to perform astrophysical calibration
